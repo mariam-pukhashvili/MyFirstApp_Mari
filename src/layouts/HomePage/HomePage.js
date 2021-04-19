@@ -1,4 +1,4 @@
-import Message from '../../message';
+import Message from '../../components/message';
 function MainPage(){
     return (
         <div className="row text-center mt-3">
